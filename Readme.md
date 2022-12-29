@@ -121,7 +121,7 @@ python main.py --mode model2 --lr 1e-5 --wd 1e-6 --GAT False --fold 5 --n_heads 
 ```
 @misc{behzadi2022weaklysupervised,
       title={Weakly-Supervised Deep Learning Model for Prostate Cancer Diagnosis and Gleason Grading of Histopathology Images}, 
-      author={Mohammad Mahdi Behzadi and Mohammad Madani and Hanzhang Wang and Jun Bai and Ankit Bhardwaj and Anna Tarakanova and Harold Yamase and Ga Hie Nam and               Sheida Nabavi},
+      author={Mohammad Mahdi Behzadi and Mohammad Madani and Hanzhang Wang and Jun Bai and Ankit Bhardwaj and Anna Tarakanova and Harold Yamase and Ga Hie Nam and  Sheida Nabavi},
       year={2022},
       eprint={2212.12844},
       archivePrefix={arXiv},
